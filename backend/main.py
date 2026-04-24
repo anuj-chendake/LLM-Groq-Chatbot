@@ -68,4 +68,4 @@ def chat(request: ChatRequest):
 #.\groq_env\Scripts\Activate
 #python -m uvicorn backend.main:app --reload
 #python -m streamlit run frontend/app.py
-#
+#python run.py
